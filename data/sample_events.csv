@@ -1,0 +1,7 @@
+employee_id,event_type,date
+1001,hire,2022-01-10
+1002,hire,2022-02-15
+1001,warning,2022-05-20
+1003,hire,2022-04-01
+1002,promotion,2022-09-05
+1003,termination,2022-12-12
